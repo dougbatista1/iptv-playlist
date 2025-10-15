@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="manha" tvg-name="Programa Manhã - Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Meus Canais",Programa da Manhã ->>> Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tarde" tvg-name="Programa Tarde" tvg-logo="https://i.ibb.co/X726G1j/Times-Brasil-CNBC-logo-svg-1.png" group-title="Meus Canais",Programa da Tarde
+https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonitosd" tvg-name="cartoonito sd" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png" group-title="Meus Canais",Cartoonito SD
+http://saga10.pro:80/345715/562156/1263434
+
+#EXTINF:-1 tvg-id="cartoonnetworksd" tvg-name="Cartoon Network SD" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="Meus Canais",Cartoon Network SD
+http://saga10.pro:80/345715/562156/1263431
+
+#EXTINF:-1 tvg-id="nickelodeonsd" tvg-name="Nickelodeon SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/MsvYq1.png" group-title="Meus Canais",Nickelodeon SD
+http://saga10.pro:80/345715/562156/1263452
+
+#EXTINF:-1 tvg-id="nickjrsd" tvg-name="Nick Jr. SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/MID1Gk.png" group-title="Meus Canais",Nick Jr. SD
+http://saga10.pro:80/345715/562156/1263449
+
+#EXTINF:-1 tvg-id="gloobinhosd" tvg-name="Gloobinho SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/OiiizV.png" group-title="Meus Canais",Gloobinho SD
+http://saga10.pro:80/345715/562156/1263446
+
+#EXTINF:-1 tvg-id="gloobsd" tvg-name="Gloob SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/0LErhi.png" group-title="Meus Canais",Gloob SD
+http://saga10.pro:80/345715/562156/1263443
+
+#EXTINF:-1 tvg-id="discoverykidsfhd" tvg-name="Discovery Kids Full HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/GizFtO.png" group-title="Meus Canais",Discovery Kids Full HD
+http://saga10.pro:80/345715/562156/1263439
+
+#EXTINF:-1 tvg-id="cartoonitohd" tvg-name="Cartoonito HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png" group-title="Meus Canais",Cartoonito HD
+http://saga10.pro:80/345715/562156/1263435
+
+#EXTINF:-1 tvg-id="tvculturasd" tvg-name="TV Cultura SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="Meus Canais",TV Cultura SD
+http://saga10.pro:80/345715/562156/1263341
+
+#EXTINF:-1 tvg-id="youtube" tvg-name="Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" group-title="Meus Canais",Youtube
+https://www.youtube.com/watch?v=7oIknz7O_tc&list=PLoaBAxtZve6ktGcd29aorwaQkzjsZZCXX
+
+
+
