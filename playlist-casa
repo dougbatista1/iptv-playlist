@@ -35,5 +35,5 @@ http://saga10.pro:80/345715/562156/1263341
 #EXTINF:-1 tvg-id="youtube" tvg-name="Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" group-title="Meus Canais",Youtube
 https://www.youtube.com/watch?v=7oIknz7O_tc&list=PLoaBAxtZve6ktGcd29aorwaQkzjsZZCXX
 
-#EXTINF:-1,TV Ra tim bum
-http://192.99.148.73:8080/live/play/play/586.ts
+#EXTINF:-1 tvg-id="TVRatimbum" tvg-name="TV RA TIM BUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais | Infantis",TV RA TIM BUM HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/12964.m3u8
