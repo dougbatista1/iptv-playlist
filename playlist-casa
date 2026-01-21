@@ -37,3 +37,6 @@ https://www.youtube.com/watch?v=7oIknz7O_tc&list=PLoaBAxtZve6ktGcd29aorwaQkzjsZZ
 
 #EXTINF:-1 tvg-id="TVRatimbum" tvg-name="TV RA TIM BUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais | Infantis",TV RA TIM BUM HD
 http://udq.me:80/live/7SyrYN0fMy/3772288787/12964.m3u8
+
+#EXTINF:-1 tvg-id="TVRatimbum" tvg-name="TV RA TIM BUM SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais | Infantis",TV RA TIM BUM SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/12963.m3u8
