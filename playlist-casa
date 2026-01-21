@@ -35,5 +35,4 @@ http://saga10.pro:80/345715/562156/1263341
 #EXTINF:-1 tvg-id="youtube" tvg-name="Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" group-title="Meus Canais",Youtube
 https://www.youtube.com/watch?v=7oIknz7O_tc&list=PLoaBAxtZve6ktGcd29aorwaQkzjsZZCXX
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Ra tim bum" tvg-logo="http://i.imgur.com/pqb2u5X.png" group-title="CANAIS INFANTIL",TV Ra tim bum
-http://painel.iptvmove.com:25461/live/danga07/1963/1232.m3u8
+#EXTINF:-1,TV Rá Tim Bum http://rhagf.co:25461/live/luizantonio3011/3011/7.ts
