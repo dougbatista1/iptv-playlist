@@ -35,5 +35,6 @@ http://saga10.pro:80/345715/562156/1263341
 #EXTINF:-1 tvg-id="youtube" tvg-name="Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" group-title="Meus Canais",Youtube
 https://www.youtube.com/watch?v=7oIknz7O_tc&list=PLoaBAxtZve6ktGcd29aorwaQkzjsZZCXX
 
-
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Rá Tim Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá Tim Bum
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/7.ts
 
